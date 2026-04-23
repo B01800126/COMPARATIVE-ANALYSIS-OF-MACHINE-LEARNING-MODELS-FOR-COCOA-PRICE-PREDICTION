@@ -1,2 +1,2 @@
 # COMPARATIVE-ANALYSIS-OF-MACHINE-LEARNING-MODELS-FOR-COCOA-PRICE-PREDICTION
-These are our comparative models( code)  to predicit the prices of cocoa .
+These are our comparative models to predict the prices of Cocoa. The uploaded files are python codes for machine learning. The models are Random forest( Joshua Opoku) , linear Regression and Neural Network(Bernard Debrah Ofori), KNeighbors Regressor and Decision Tree Regression(Michael Humphrey Lamptey, Support Vector Regression and Bayesian Ridge (Glory Titilope Olanrewaju)
